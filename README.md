@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Glitch-Clock<br>👀 I’m interested in Spring Boot.<br>🌱 I’m currently learning C.<br>💞️ I’m looking to collaborate on ...<br>📫 How to reach me ...<br>😄 Pronouns: ...<br>⚡ Fun fact: Rocks are really old.<br>✔ Languages I know: Java, javaScript and Batch scripting. I also know HTML and CSS (Not programming languages but OK).<br>🌱 Languages I want to learn: PHP, mySQL.<br>📈 Languages I understand: Python, C#, C++.
+👋 Hi, I’m Bleak<br>👀 I’m interested in Spring Boot.<br>🌱 I’m currently learning C.<br>💞️ I’m looking to collaborate on ...<br>📫 How to reach me ...<br>😄 Pronouns: ...<br>⚡ Fun fact: Rocks are really old.<br>✔ Languages I know: Java, javaScript and Batch scripting. I also know HTML and CSS (Not programming languages but OK).<br>🌱 Languages I want to learn: PHP, mySQL.<br>📈 Languages I understand: Python, C#, C++.
 
 
 ## 🌐 Socials:
